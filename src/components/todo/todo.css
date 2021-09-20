@@ -1,0 +1,29 @@
+.todoWrapper{
+    margin-left:10rem;
+    margin-top: 5rem;
+}
+.card {
+    background-color: white;
+    border-radius: 4px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+    padding: 1rem;
+    width: 20rem;
+  }
+.button{
+    margin: 0 1rem;
+    font: inherit;
+  padding: 0.5rem 1.5rem;
+  cursor: pointer;
+  border-radius: 4px;
+  background-color: #800040;
+  color: white;
+  border: 1px solid #800040;
+  text-align: right;
+}
+.actions{
+    text-align: right;
+}
+.button:hover{
+    background-color: #9c1458;
+    border-color: #9c1458;
+}
